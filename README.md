@@ -3,7 +3,7 @@
 A clean and responsive website template built with **Tailwind CSS** and **Alpine.js**.  
 Perfect for landing pages, SaaS projects, and marketing websites.
 
-## ✨ Features
+## ✨ Featuress
 
 - Tailwind CSS 4.x (fully responsive)
 - Alpine.js for interactivity
